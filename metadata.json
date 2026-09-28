@@ -1,0 +1,6 @@
+{
+  "name": "EyeGuard Sentinel",
+  "description": "Advanced biometric unlock protection with eye and face detection, security lockdown, and voice alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
